@@ -733,6 +733,21 @@ body {
 
 /*-- MODAL ------------*/
 
+.user-privacy {
+  font-size: 12px;
+  line-height: 1.17;
+  color: #8e8f99;
+  
+}
+
+.checkbox {
+  visibility: hidden;
+}
+
+.modal-privacy {
+  margin-bottom: 24px;
+}
+
 .comment-form {
   margin-bottom: 16px;
 }
