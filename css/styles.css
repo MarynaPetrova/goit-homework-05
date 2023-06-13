@@ -690,8 +690,6 @@ body {
   gap: 24px;
 }
 
-.footer-subscribe-label {
-}
 
 .footer-subscribe-input {
   display: block;
@@ -920,7 +918,7 @@ color:rgba(46, 47, 66, 0.4);
     line-height: 14px;
     letter-spacing: 0.04em;
     line-height: 1.17;
-    color: var(--icon-color);
+    color: #8e8f99;
 }
 .privacy {
     color: #4d5ae5;
