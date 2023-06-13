@@ -830,6 +830,15 @@ body {
     line-height: 1.17;
     letter-spacing: 0.04em;
 }
+
+.modal-input-comment:focus {
+  border-color: #4D5AE5;
+}
+
+.modal-input:focus {
+  border-color: #4D5AE5;
+}
+
 .modal-icon{
     position: absolute;
     top: 50%;
